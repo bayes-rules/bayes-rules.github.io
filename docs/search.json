@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "The Bayes Rules! Project",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-06-30T17:36:38-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

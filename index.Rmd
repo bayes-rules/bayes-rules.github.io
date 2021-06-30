@@ -1,0 +1,5 @@
+---
+title: "The Bayes Rules! Project"
+site: distill::distill_website
+listing: posts
+---

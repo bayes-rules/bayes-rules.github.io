@@ -1,0 +1,11 @@
+name: "bayes-rules-website"
+title: "The Bayes Rules! Project"
+theme: theme.css
+description: |
+  A landing page for all things Bayes Rules!.
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+output: distill::distill_article

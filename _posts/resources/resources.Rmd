@@ -1,0 +1,30 @@
+---
+title: "Resources for teaching"
+description: |
+  Additional resources for teaching Bayesian statistics.
+preview: stats-115-logo.png
+date: 01-01-2010
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+## Connecting with others
+
+There's a growing group of us teaching Bayesian statistics at the undergraduate level (and not necessarily from the *Bayes Rules!* book). If you're interested in connecting with others about the experience, learn more about the [Undergraduate Bayesian Education Network](https://undergrad-bayes.netlify.app/network.html).
+
+
+
+
+\
+\
+
+
+
+## Teaching materials
+
+As we have more opportunities to teach from the *Bayes Rules!* book, we plan to share some materials here. In the meantime, check out some examples from Mine's and Miles' classes:
+
+- [STATS 115 at UC Irvine](https://www.stats115.com)
+
+- [SDS 390 at Smith College](https://www.dropbox.com/sh/qdmxfapt9vv08xm/AABWnhZNmqOdjnaVyGJ5VLyEa?dl=0)
