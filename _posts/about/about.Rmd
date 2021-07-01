@@ -14,14 +14,6 @@ output:
 
 <table>
   <tr>
-    <td> <img src="img/headshot.jpeg"
-        alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
-        style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;"></td>
-    <td> **Mine Dogucu** <br> University of California Irvine  <br> `r fontawesome::fa(name = "twitter")` <a href = "http://twitter.com/MineDogucu">MineDogucu</a> <br>
-`r fontawesome::fa(name = "github")` <a href = "http://github.com/mdogucu">mdogucu</a>   <br>
-`r fontawesome::fa(name = "link")` <a href = "http://minedogucu.com">minedogucu.com</a> </td>
-   </tr>
-  <tr>
     <td> <img src="img/alicia.jpg"
         alt="A headshot of a woman with long blonde hair wearing a brownish yellow tshirt and a red and pink floral silk scarf wrapped around her neck."
         style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;"></td>
@@ -36,5 +28,13 @@ output:
 & Johnson  <br> `r fontawesome::fa(name = "twitter")` <a href = "https://twitter.com/Miles_Ott">Miles_Ott</a> <br>
 `r fontawesome::fa(name = "link")` <a href = "https://milesott.com/">milesott.com</a> <br> 
 `r fontawesome::fa(name = "github")` <a href = "https://github.com/MilesOtt">MilesOtt</a> </td>
+   </tr>
+     <tr>
+    <td> <img src="img/headshot.jpeg"
+        alt="A headshot of a woman with curly, short, ear-length hair with green eyes and red lipstick."
+        style="width:165px; margin-top:20px; border: 3px solid whitesmoke; padding: 10px;"></td>
+    <td> **Mine Dogucu** <br> University of California Irvine  <br> `r fontawesome::fa(name = "twitter")` <a href = "http://twitter.com/MineDogucu">MineDogucu</a> <br>
+`r fontawesome::fa(name = "github")` <a href = "http://github.com/mdogucu">mdogucu</a>   <br>
+`r fontawesome::fa(name = "link")` <a href = "http://minedogucu.com">minedogucu.com</a> </td>
    </tr>
 </table>
