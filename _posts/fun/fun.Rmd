@@ -51,5 +51,5 @@ We set our random number seed to 84735 throughout the *Bayes Rules!* book. Why?
 
 ## Why an exclamation point in the title?
 
-Why not? We are just as enthusiastic as we are serious about the topic. Plus, naming things is hard. Here are some of the other contenders we considered in naming the book: Modeling with Bayes, Bayesian Modeling, Introduction to Bayesian Modeling, Discovering Bayes, Learning Bayes, Project Bayes, The Road to Bayes, Updating with Bayes. We had to make a decision at some point, and went with the option that we'll never get bored of and will never be confused for another book.
+Why not? We are just as enthusiastic as we are serious about the topic. Plus, naming things is hard. Here are some of the other contenders we considered in naming the book: Modeling with Bayes, Bayesian Modeling, Introduction to Bayesian Modeling, Discovering Bayes, Learning Bayes, Project Bayes, The Road to Bayes, Updating with Bayes. We had to make a decision at some point, and went with the option that we'll never get bored of and that will never be confused for another book.
 

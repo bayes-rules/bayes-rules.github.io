@@ -8,7 +8,7 @@
     "categories": [],
     "contents": "\nThere are (or will be) two ways to enjoy Bayes Rules! An introduction to Bayesian modeling with R:\nOnline and free at bayesrulesbook.com.\nIn print from CRC Press. We hope for this to be available in early 2022.\n\n\n\n",
     "preview": "posts/book/bayes-rules-hex.png",
-    "last_modified": "2021-07-01T10:55:23-07:00",
+    "last_modified": "2021-07-02T09:40:10-05:00",
     "input_file": {}
   },
   {
@@ -20,7 +20,7 @@
     "categories": [],
     "contents": "\n\n\n\nAlicia Johnson  Macalester College ajohns24.github.io ajohns24\n\n\n\n\nMiles Ott  The Janssen Pharmaceutical Companies of Johnson & Johnson Miles_Ott milesott.com MilesOtt\n\n\n\n\nMine Dogucu  University of California Irvine MineDogucu mdogucu minedogucu.com\n\n\n\n\n",
     "preview": "posts/about/bayes_band.png",
-    "last_modified": "2021-07-01T11:46:01-07:00",
+    "last_modified": "2021-07-02T09:39:35-05:00",
     "input_file": {}
   },
   {
@@ -32,7 +32,7 @@
     "categories": [],
     "contents": "\nConnecting with others\nThere’s a growing group of us teaching Bayesian statistics at the undergraduate level (and not necessarily from the Bayes Rules! book). If you’re interested in connecting with others about the experience, learn more about the Undergraduate Bayesian Education Network.\n\nTeaching materials\nAs we have more opportunities to teach from the Bayes Rules! book, we plan to share some materials here. In the meantime, check out some examples from Mine’s and Miles’ classes:\nSTATS 115 at UC Irvine\nSDS 390 at Smith College\n\n\n\n",
     "preview": "posts/resources/stats-115-logo.png",
-    "last_modified": "2021-07-01T10:55:23-07:00",
+    "last_modified": "2021-07-02T09:40:15-05:00",
     "input_file": {}
   },
   {
@@ -42,9 +42,9 @@
     "author": [],
     "date": "2000-01-01",
     "categories": [],
-    "contents": "\nHow should I pronounce “Bayesian”?\nOK, there are two strong opinions out there. Since the Bayesian philosophy is named for Reverend Thomas Bayes, like Bayz not Beige, the authors pronounce “Bayesian” as follows:\n\nBut we’ll still be excited to chat with you about Bayesian statistics if you prefer this pronunciation:\n\nSource: soundoftext.com\n\nWhy 84735?\nWe set our random number seed to 84735 throughout the Bayes Rules! book. Why?\n\n\nWhy an exclamation point in the title?\nWhy not? We are just as enthusiastic as we are serious about the topic. Plus, naming things is hard. Here are some of the other contenders we considered in naming the book: Modeling with Bayes, Bayesian Modeling, Introduction to Bayesian Modeling, Discovering Bayes, Learning Bayes, Project Bayes, The Road to Bayes, Updating with Bayes.\n\n\n\n",
+    "contents": "\nHow is “Bayesian” pronounced?\nOK, there are two strong opinions out there. Since the Bayesian philosophy is named for Reverend Thomas Bayes, like Bayz not Beige, the authors pronounce “Bayesian” as follows:\n\nBut we’ll still be excited to chat with you about Bayesian statistics if you prefer this pronunciation:\n\nSource: soundoftext.com\n\nWhy 84735?\nWe set our random number seed to 84735 throughout the Bayes Rules! book. Why?\n\n\nWhy an exclamation point in the title?\nWhy not? We are just as enthusiastic as we are serious about the topic. Plus, naming things is hard. Here are some of the other contenders we considered in naming the book: Modeling with Bayes, Bayesian Modeling, Introduction to Bayesian Modeling, Discovering Bayes, Learning Bayes, Project Bayes, The Road to Bayes, Updating with Bayes. We had to make a decision at some point, and went with the option that we’ll never get bored of and that will never be confused for another book.\n\n\n\n",
     "preview": "posts/fun/still_84735.png",
-    "last_modified": "2021-07-01T10:55:23-07:00",
+    "last_modified": "2021-07-02T09:42:29-05:00",
     "input_file": {}
   }
 ]
