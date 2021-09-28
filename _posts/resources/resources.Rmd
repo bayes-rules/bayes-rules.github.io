@@ -23,10 +23,10 @@ There's a growing group of us teaching Bayesian statistics at the undergraduate 
 
 ## Teaching materials
 
-As we have more opportunities to teach from the *Bayes Rules!* book, we plan to share some materials here. In the meantime, check out some examples from Mine's and Miles' classes:
+As we have more opportunities to teach from the *Bayes Rules!* book, we plan to share some materials here. In the meantime, check out some examples from Mine, Miles, and Alicia's classes:
 
 - [STATS 115 at UC Irvine](https://www.stats115.com)
 
 - [SDS 390 at Smith College](https://www.dropbox.com/sh/qdmxfapt9vv08xm/AABWnhZNmqOdjnaVyGJ5VLyEa?dl=0)
 
-- [STAT 454 at Macalester College](https://ajohns24.github.io/454_Fall_21/index.html)
+- [STAT 454 at Macalester College (in progress Fall 2021)](https://ajohns24.github.io/454_Fall_21/index.html)
