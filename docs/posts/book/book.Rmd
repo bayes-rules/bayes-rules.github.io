@@ -1,0 +1,17 @@
+---
+title: "The book"
+description: |
+  How to access Bayes Rules! online and in print.
+preview: bayes-rules-hex.png
+date: 01-01-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+There are (or will be) two ways to enjoy *Bayes Rules! An introduction to Bayesian modeling with R*:
+
+- Online and free at [bayesrulesbook.com](https://www.bayesrulesbook.com).
+
+- In print from CRC Press. We hope for this to be available in early 2022.

@@ -1,0 +1,17 @@
+---
+title: "Contact us"
+date: 01-01-1999
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+As you read and interact with Bayes Rules!, please feel free to drop us a note through [this form](https://docs.google.com/forms/d/e/1FAIpQLScIdr63an_GmxCOHMgES6gtWVzd0eQV3vg2ZKG9Knb-JEJJZg/viewform?usp=sf_link). We're especially curious to know if:
+
+- you have any ideas for increasing the accessibility and inclusion of this book;
+
+- you notice any errors, typos, etc; and
+
+- there's anything you'd like to see in future versions.
+When we revise the text, we will occasionally check in with this form to help guide that process.
+
