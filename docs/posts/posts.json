@@ -48,15 +48,15 @@
     "input_file": {}
   },
   {
-    "path": "posts/",
+    "path": "posts/contact/",
     "title": "Contact us",
     "description": {},
     "author": [],
     "date": "1999-01-01",
     "categories": [],
-    "contents": "\nAs you read and interact with Bayes Rules!, please feel free to drop us a note through this form. We’re especially curious to know if:\nyou have any ideas for increasing the accessibility and inclusion of this book;\nif you notice any errors, typos, etc; and\nif there’s anything you’d like to see in future versions. When we revise the text, we will occasionally check in with this form to help guide that process.\n\n\n\n",
+    "contents": "\nAs you read and interact with Bayes Rules!, please feel free to drop us a note through this form. We’re especially curious to know if:\nyou have any ideas for increasing the accessibility and inclusion of this book;\nyou notice any errors, typos, etc; and\nthere’s anything you’d like to see in future versions. When we revise the text, we will occasionally check in with this form to help guide that process.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-10-07T17:09:45-05:00",
+    "last_modified": "2021-10-07T17:14:44-05:00",
     "input_file": {}
   }
 ]
