@@ -10,8 +10,8 @@ output:
 ---
 
 
-There are (or will be) two ways to enjoy *Bayes Rules! An introduction to Bayesian modeling with R*:
+There are (or will be) two ways to enjoy *Bayes Rules! An introduction to applied Bayesian modeling*:
 
 - Online and free at [bayesrulesbook.com](https://www.bayesrulesbook.com).
 
-- In print from CRC Press. We hope for this to be available in early 2022.
+- [In print from CRC Press](https://www.routledge.com/Bayes-Rules-An-Introduction-to-Applied-Bayesian-Modeling/Johnson-Ott-Dogucu/p/book/9780367255398). We hope for this to be available in early 2022.
